@@ -110,7 +110,7 @@ MITRE ATLAS is external work maintained by MITRE. MITRE names, ATLAS names, iden
 
 The public ATLAS data repository has been distributed under the **Apache License 2.0**. Specific MITRE content, marks, websites, or other materials may carry additional or different terms and SHOULD be checked at their authoritative source before reuse.
 
-This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 ## 11. Versioning
 
